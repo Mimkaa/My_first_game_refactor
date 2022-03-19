@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f26a1d44-78b6-491f-8aed-a8bc86f2f231" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lib/site-packages/pip/_internal/index/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lib/site-packages/pip/_internal/index/collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lib/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lib/site-packages/pygame/docs/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lib/site-packages/pygame/docs/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkpoint.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../checkpoint.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cutscenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cutscenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorational_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../decorational_sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interactable_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/../interactable_objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/Kenny Top Down Pack.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/Untitled-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/Untitled-2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/Untitled-4.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/cave_exit.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/../maps/cave_exit.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/cliff set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/cliff set.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/crystal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/crystal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/crystal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/crystal2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/first location.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/first_location.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/../maps/first_location.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower animation.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/flower3.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/for ENTER MAP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/for ENTER MAP.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/for ENTER MAP.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/level1.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/spritesheet_tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/start.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/../maps/start.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/tileset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/tileset.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/tileset.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maybe will be useful.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maybe will be useful.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../quests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tile_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tile_map.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="22kJ59RgemKhZnVP78YTvm15Gu4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raycasting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f26a1d44-78b6-491f-8aed-a8bc86f2f231" name="Changes" comment="" />
+      <created>1640375465949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640375465949</updated>
+    </task>
+    <servers />
+  </component>
+</project>
